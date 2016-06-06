@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name            HybrisPlugDJ UserScript
-// @namespace       https://github.com/Hybris95/HybrisPlugDJ
-// @description     Autorun HybrisPlugDJ
+// @name            HybrisAutoMeh UserScript
+// @namespace       https://github.com/Hybris95/HybrisAutoMeh
+// @description     Autorun HybrisAutoMeh
 // @icon            https://avatars3.githubusercontent.com/u/705741?v=2&s=40
 // @include         https://plug.dj/*
 // @exclude         https://plug.dj/dashboard
